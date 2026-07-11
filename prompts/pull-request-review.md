@@ -319,6 +319,48 @@ The richer the context, the more actionable and relevant the review will be.
 
 ---
 
+# ✅ Human Review Checklist
+
+Before approving this Pull Request, ask yourself:
+
+## Business
+
+- [ ] Does this change solve the intended business problem?
+- [ ] Is the implementation aligned with the acceptance criteria?
+
+## Correctness
+
+- [ ] Does the code work as expected?
+- [ ] Have edge cases been considered?
+- [ ] Could this introduce regressions?
+
+## Architecture
+
+- [ ] Does this follow the existing architecture?
+- [ ] Are responsibilities well separated?
+- [ ] Is the solution maintainable?
+
+## Performance
+
+- [ ] Are unnecessary API calls avoided?
+- [ ] Is rendering efficient?
+- [ ] Could this impact performance?
+
+## Security
+
+- [ ] Is user input validated?
+- [ ] Are secrets protected?
+- [ ] Are authorization checks correct?
+
+## Testing
+
+- [ ] Are tests sufficient?
+- [ ] Are important scenarios covered?
+
+## Production
+
+- [ ] Would I confidently deploy this tomorrow?
+
 # 🔗 Related Playbooks
 
 * Architecture Review
