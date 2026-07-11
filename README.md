@@ -1,7 +1,7 @@
 # engineering-ai-playbook
-# 🚀 Awesome AI Prompts for Engineers
+# 🚀 Production-ready AI playbooks for software engineers
 
-> **Production-ready AI prompts for software engineers, architects, tech leads, engineering managers, and AI engineers.**
+> **Production-ready AI playbooks for software engineers, architects, tech leads, engineering managers, and AI engineers.**
 
 Stop writing prompts from scratch.
 
