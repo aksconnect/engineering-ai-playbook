@@ -1,7 +1,9 @@
 # engineering-ai-playbook
 # 🚀 Production-ready AI playbooks for software engineers
 
-> **Production-ready AI playbooks for software engineers, architects, tech leads, engineering managers, and AI engineers.**
+> **Production-ready AI playbooks for software engineers, architects, tech leads, engineering managers, and AI engineers. This repository is intentionally opinionated.
+
+These playbooks reflect practical software engineering workflows and are designed to help engineers collaborate more effectively with AI. They are intended as starting points, not one-size-fits-all solutions.**
 
 Stop writing prompts from scratch.
 
